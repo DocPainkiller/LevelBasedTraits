@@ -10,11 +10,11 @@ var FROG = FROG || {};
 FROG.LBTA = FROG.LBTA || {};
 
 /*:
- * @plugindesc v1.1 Add traits to actors as they level up
+ * @plugindesc v1.0 Add traits to actors as they level up
  * @author Frogboy
  *
  * @help
- * Level Based Traits for Actors v1.1
+ * Level Based Traits for Actors v1.0
  * Author Frogboy
  *
  * ============================================================================
@@ -161,7 +161,6 @@ FROG.LBTA = FROG.LBTA || {};
  * ============================================================================
  *
  * Version 1.0 - Initial release
- * Version 1.1 - Better optimization
  *
  * ============================================================================
  *
