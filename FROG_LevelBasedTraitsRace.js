@@ -10,11 +10,11 @@ var FROG = FROG || {};
 FROG.LBTR = FROG.LBTR || {};
 
 /*:
- * @plugindesc v1.1 Add traits to races as they level up
+ * @plugindesc v1.0 Add traits to races as they level up
  * @author Frogboy
  *
  * @help
- * Level Based Traits for Races v1.1
+ * Level Based Traits for Races v1.0
  * Author Frogboy
  *
  * ============================================================================
@@ -122,8 +122,6 @@ FROG.LBTR = FROG.LBTR || {};
  * ============================================================================
  *
  * Version 1.0 - Initial release
- * Version 1.1 - Integration with my new FROG_RaceCore plugin.
- *               Better optimization.
  *
  * ============================================================================
  *
