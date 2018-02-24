@@ -10,11 +10,11 @@ var FROG = FROG || {};
 FROG.LBTC = FROG.LBTC || {};
 
 /*:
- * @plugindesc v1.1 Add traits to classes as they level up
+ * @plugindesc v1.0 Add traits to classes as they level up
  * @author Frogboy
  *
  * @help
- * Level Based Traits for Classes v1.1
+ * Level Based Traits for Classes v1.0
  * Author Frogboy
  *
  * ============================================================================
@@ -160,8 +160,7 @@ FROG.LBTC = FROG.LBTC || {};
  * Changelog
  * ============================================================================
  *
- * Version 1.1 - Initial release
- * Version 1.1 - Better optimization
+ * Version 1.0 - Initial release
  *
  * ============================================================================
  *
