@@ -166,3 +166,13 @@ Plugin Commands to get and set races (Don't include the brackets)
 * GET_RACE [actorId] [variableId]
 
 This plugin contains a lot of parameters and while everything seems to work for me, it's difficult to test out all of the functionality. I'm marking this as beta until I and others have had a chance to use it more thoroughly and fix any bugs that may be present. If you find an issue, let me know and I will get a new version up promptly. Thanks!
+
+
+## Terms of Use
+
+This plugin can be used in commercial or non-commercial projects.  Credit Frogboy in your work.
+
+
+## Changelog
+
+Version 1.0 - Initial release
