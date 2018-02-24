@@ -12,7 +12,7 @@ That’s where this plugin comes into play. I’ve been trying to figure out a g
 
 ![Plugin Parameters](img/snap2.png)
 ![Plugin Parameters](img/snap.png)
-##### It's just like using the editor to add traits but with more power.
+###### It's just like using the editor to add traits but with more power.
 
 Here are few examples of what you can easily do as your characters go up in level.
 * Adjust Elemental Resistance
@@ -72,7 +72,7 @@ Extra Attacks: 1
 *I want my Fire Mage to gain fire resistance as she levels up.*
 
 ![Descriptions Help](img/snap3.png)
-##### By adding a short description, you can know at a glance what each entry is doing.
+###### By adding a short description, you can know at a glance what each entry is doing.
 
 Under Class-based Traits -> Rates -> Element Rate, enter in these parameter values. Because Element Rate is multiplied when stacked, you’ll want to set each one to expire when the next kicks in so that only one is ever added to the actor or class at a time.
 
